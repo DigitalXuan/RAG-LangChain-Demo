@@ -1,0 +1,6 @@
+langchain-core==0.2.33
+langchain-community
+python-dotenv
+chromadb
+dashscope
+langchain
