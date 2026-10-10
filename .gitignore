@@ -1,0 +1,17 @@
+# 本地大模型
+bge-small-zh-v1.5/
+
+# Jupyter缓存
+.ipynb_checkpoints/
+
+# Python环境、缓存
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# 密钥文件
+.env
+
+# VSCode配置
+.vscode/
